@@ -1,0 +1,10 @@
+$icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+$halloween-background-color: #f07c05;
+$text-color: #faf7f7;
+
+body {
+  background: $halloween-background-color;
+  color: $text-color;
+}
